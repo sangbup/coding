@@ -1,0 +1,31 @@
+  a {color:black;
+    text-decoration: none;
+    }
+  header{
+    border-bottom: 2px solid green;
+    padding: 20px;
+    border-top: 2px solid green;
+    padding: 20px;
+
+    }
+  nav{
+    border-right: 4px solid green;
+
+    float:left;
+    height:800px;
+    }
+  nav ol{
+    color:green; font-size: 20px;
+    list-style: none;
+    }
+  ul{
+    list-style: none;
+    }
+  h1{
+    color:green; font-size: 50px;
+
+
+    }
+  h2{
+    color:green; font-size: 30px;
+    }
